@@ -6,7 +6,7 @@ public class Mykaala
   private int age = 20;
   public String[] traits = new String[] { "5'10", "indonesian", "hilarious (and humble)" };
   public String[] skills = new String[] { "130wpm typing speed", "CPR training", "ex-asc3 in val" };
-  public String[] hobbies = new String[] { "coding", "climbing", "driving", "bball", "sleeping" };
+  public String[] hobbies = new String[] { "cooking", "climbing", "driving", "bball", "sleeping" };
 }
 ```
 -  I’m interested in **software engineering 📝 and product development 📲**
