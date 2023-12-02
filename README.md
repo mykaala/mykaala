@@ -15,7 +15,7 @@ public class Mykaala
 
 -  I'm taking classes like **computer systems 🖥️ and discrete math 🧮**
 
--  I'm also **grinding on leetcode 🧑‍💻 and self-teaching AI/ML 🤖**
+-  I'm also **grinding leetcode 🧑‍💻 and self-teaching AI/ML 🤖**
 
 - p.s. -> add me on linkedin i need clout
 
