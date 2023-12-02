@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Mykaala.
+### Hi there! 👋 My name is Mykaala and I'm a Computer Science student!
 
 ```java
 public class Mykaala
