@@ -11,9 +11,9 @@ public class Mykaala
 ```
 -  I’m interested in **software engineering 📝 and product development 📲**
 
--  I’m currently working on **a group expense calculator 💵 and a NYT-game clone 🎮**
+-  I’m currently working on **a group expense calculator 💵 and a "what's my aircraft?" site 🌏**
 
--  I'm taking classes like **computer systems 🖥️ and discrete math 🧮**
+-  I'm taking classes like **algorithms ii 🖥️ and web programming 🧮**
 
 -  I'm also **grinding leetcode 🧑‍💻 and self-teaching AI/ML 🤖**
 
