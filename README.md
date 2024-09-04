@@ -3,7 +3,7 @@
 ```java
 public class Mykaala
 {
-  private int age = 20;
+  private int age = 21;
   public String[] traits = new String[] { "5'10", "indonesian", "hilarious (and humble)" };
   public String[] skills = new String[] { "130wpm typing speed", "CPR training", "ex-asc3 in val" };
   public String[] hobbies = new String[] { "cooking", "climbing", "driving", "bball", "sleeping" };
@@ -13,7 +13,7 @@ public class Mykaala
 
 -  I’m currently working on **a group expense calculator 💵 and a "what's my aircraft?" site 🌏**
 
--  I'm taking classes like **algorithms ii 🖥️ and web programming 🧮**
+-  I'm taking classes like **algorithm design 🖥️, security 🔐, and web programming 🧮**
 
 -  I'm also **grinding leetcode 🧑‍💻 and self-teaching AI/ML 🤖**
 
